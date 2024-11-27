@@ -23,6 +23,13 @@
 
 ## 📋 Come utilizzare
 
-1. **Clona questo repository**:
-   ```bash
-   git clone https://github.com/ValeStudio/its-a-panda.git
+Accedi al modello Teachable Machine: Il modello AI è ospitato su Teachable Machine. Puoi trovarlo al seguente link: It's a Panda - Teachable Machine Model (https://teachablemachine.withgoogle.com/models/jqfEHY8Vl/)
+
+🧪 Addestramento del modello
+Il modello è stato addestrato su Google Teachable Machine utilizzando due categorie:
+
+Panda: immagini di panda raccolte da varie fonti.
+Non-panda: immagini di oggetti, animali e sfondi che non includono panda.
+
+📜 Licenza
+Questo progetto è distribuito sotto la licenza MIT.
