@@ -29,7 +29,7 @@ Accedi al modello Teachable Machine: Il modello AI è ospitato su Teachable Mach
 🧪 Addestramento del modello
 Il modello è stato addestrato su Google Teachable Machine utilizzando due categorie:
 
----
+
 Panda: immagini di panda raccolte da varie fonti.
 Non-panda: immagini di oggetti, animali e sfondi che non includono panda.
 
