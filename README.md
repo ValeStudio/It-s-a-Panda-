@@ -25,4 +25,4 @@
 
 1. **Clona questo repository**:
    ```bash
-   git clone https://github.com/tuo-utente/its-a-panda.git
+   git clone https://github.com/ValeStudio/its-a-panda.git
